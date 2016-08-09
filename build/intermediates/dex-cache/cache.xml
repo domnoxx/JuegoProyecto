@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/estudiante/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4d28d9a854db1b285aa3fcaf4850381c42f358a1.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e2f5b36bd35e181921a00f938df7f095b71a1ec1">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/instant-run_91ef3fb256de171743b1aa095bccb8100d3accf5.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_9faaa9e5690096f287a5ac15ae966d33eafb8073.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="edd9a6cb309b54a303d370845a610388c9fda364">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dbe7c9777882c4bb36ac424abbcba327edc6d664.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_ba856d7b90fca92e31311d7ae53290e939e0b2af.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_0ded7d4dbc75b1e2861f827ceeb37e96c800850c.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_82912087e46b874875de6726103aed4518dd7d0b.jar" />
+    </item>
+    <item
+        jar="/home/estudiante/JuegoProyecto/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/estudiante/JuegoProyecto/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_9f8e88ba3288bb901ece54f52649652bc8db24aa.jar" />
+    </item>
+
+</items>
