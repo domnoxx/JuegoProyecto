@@ -1,6 +1,8 @@
 package com.example.estudiante.proyecto.test;
 
 import android.app.Application;
+import android.content.Context;
+import android.location.LocationManager;
 import android.test.ApplicationTestCase;
 import android.test.suitebuilder.annotation.SmallTest;
 
@@ -18,5 +20,10 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         assertEquals(1,x);
 
     }
+    @SmallTest
+    public void test_revisar_wifi(){
+        Context ctx=this.getContext();
+        LocationManager locationManager= (LocationManager) ctx.getSystemService(Context.LOCATION_SERVICE);
 
+    }
 }
