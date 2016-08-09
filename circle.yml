@@ -26,7 +26,7 @@ test:
         # wait for it to have booted
         - circle-android wait-for-boot
         # run tests  against the emulator.
-        - ./gradlew connectedAndroidTest
+       # - ./gradlew connectedAndroidTest
        - ./gradlew assembleDebug
           - bin/android-wait-for-emulator
       - bin/run-tests test.namespace
