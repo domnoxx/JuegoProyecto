@@ -49,7 +49,7 @@ public class GamePanel extends SurfaceView implements SurfaceHolder.Callback
     @Override
     public void surfaceCreated(SurfaceHolder holder){
 
-        bg = new BackGround(BitmapFactory.decodeResource(getResources(), R.drawable.ciudad));
+        bg = new BackGround(BitmapFactory.decodeResource(getResources(), R.drawable.bguno));
         bg.setVector(-5);
         //we can safely start the game loop
         thread.setRunning(true);
